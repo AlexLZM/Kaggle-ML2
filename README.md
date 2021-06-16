@@ -8,6 +8,8 @@ The goal of this project is to construct models to predict the target value for 
 To find the best model that gives the highest accuracy, we developed and tuned hyperparameters for different models including XGBoost and LightGBM. For hyperparameter tuning we combined the data from different problem ids and used cross validation. Once we had the best hyper parameters, we created LightGBM models with Dart mode, for each of the dataset. So at the end we had 21 different LightGBM models for 21 different datasets and we used these to make the final predictions on the test data.
 
 ## TEAM DETAILS
+Team Name : Gradient Ascent
+
 Team Members : Hashneet Kaur / Zhimin (Alex) Lyu Kaggle ID’s : hashneetkaur / finslcx
 
 ## DATASET DESCRIPTION
